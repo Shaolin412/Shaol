@@ -1,0 +1,26 @@
+{
+  "name": "Julia Lyons",
+  "age": 53,
+  "address": {
+    "street": "Gagbaz Key",
+    "city": "Epaunuule",
+    "state": "IA",
+    "zip": "77867"
+  },
+  "contact": {
+    "phone": "(275) 778-5500",
+    "servicePhone": "800179955"
+  },
+  "birthday": "1963-01-27T16:52:17.200Z",
+  "ip": "237.90.124.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi razar ogkec zikzimnuw dufza ze nirbizi jigvekkis ra ezeel woc uda gubap. Teih iti we wor daf pa virtelsa buvcusi zebiofe wujsa na em cuud calzuc go. Ursit ofesli luedbi muha ojrolu aso hap ihafiriw gutukman ul utod ne icda jo nivrehca.",
+    "bio": "Suzvizru lovicmuv ad urutisow zav figepgul kal defru jurokra tospaf ajko sotva wuben uwpufe kem wi volnak gomihaemu. Otcalfa cekbaof tonij notaj fikaza titbecfev gefjowga ewkok gozaji caf gitfe miljulti. Zaptupza mora tojnicur ukado siwde vig wamec setotoh louduca urihe peava gitumri kourlev lehevu toet kugi."
+  },
+  "apiKey": "4fa6d479f87c7fa8735776074deaa8ac515e7cfbb58f6d2c425663b03f6d7083",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

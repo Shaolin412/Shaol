@@ -1,0 +1,26 @@
+{
+  "name": "Lester Daniel",
+  "age": 56,
+  "address": {
+    "street": "Pukeg River",
+    "city": "Dacatu",
+    "state": "MS",
+    "zip": "61457"
+  },
+  "contact": {
+    "phone": "(553) 937-7709",
+    "servicePhone": "800197681"
+  },
+  "birthday": "1995-11-08T14:52:30.036Z",
+  "ip": "212.248.24.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Wahjok wer eduji ri kiusufur ojuebeit ge kih fupub ez jivfevi ika lus cihcuvari. Ifu joeh za ka muhaheoba bopnih udged he jubocvum zu acasu efo. Jac mi haumwu cel upmopez cuj cokogi vamohi ol wunoje divvu ciun deebbi ur nucmuanu punitje obasosan bevupin.",
+    "bio": "Wigec vofufme lenpikha di dullibuh su jadiv kiulte cokmoc lacug jejegzek zelfap wunih deg. Pewoza secezi je vahto atapug jobtuvi vicufle ar tufojuro hivbic hed ne gefriwla jalras mudehiuno. Fecejpu cukebijo efigukun if afcap fo ore lois cac wofpije ran miehbit nurawo jezmop. Osurawkeh sodfeim palpovfaz olikeb rungem na taedicac pepulhoj furok pekoh zusom sogsivtif. Illugifu horinlu ojeko ara bi gajujaza utpa ciide umuhiz wummod umcumfu gaduniem biragco naw ovuviz ri. Jokevled kel wep ob facu cambi cig mu midgajuc beahpe tifhuw uwludapa obovja odfa. Madugdov rud ruamelo as kapop gu zegare ker niz neodpa pumza con."
+  },
+  "apiKey": "8057a756c0342817381bad25f2874b15fcc2b9cf832d9233cb81ffc37ad75989",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}

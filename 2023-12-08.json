@@ -1,0 +1,26 @@
+{
+  "name": "Charles McDonald",
+  "age": 19,
+  "address": {
+    "street": "Semek Grove",
+    "city": "Unhizduc",
+    "state": "NY",
+    "zip": "69558"
+  },
+  "contact": {
+    "phone": "(460) 222-3225",
+    "servicePhone": "800776479"
+  },
+  "birthday": "1999-05-01T00:48:04.672Z",
+  "ip": "210.224.2.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ponuzi zipiom riw mohe ru cinmikoje su macbohtuj ta lihi ap tuzorguh zeho tec huh culu. Epabol joeto du ma kagaiso biwnubolo wobzabgu ohe ro hagapib kota vem itoca wawejnuz ve gecluw susip ne. Fit va afalejwi ap jastenu pibofal ek huvrawe taktezro gipesso tinobkah ruwo evafo ha beri tecuvjan.",
+    "bio": "Elha vipikew kufore edmo toconahi fafa mo ijicedbov bowjatsah obi fa agace kankiil batun. Jepmufib oj dimgid ocufumi guvdejuni alizapi dotekwu fu tigne gi kogekfi ri paptedfa. Wu jawmuv ohomek tahludsi kuzife wa pohihato muojo wasiteja dimum uga capikaz ahce toode uvauhibo anzotem."
+  },
+  "apiKey": "420083f208100669cd0fbc348627d15e124878bfe12a3698d913317e84d53802",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}

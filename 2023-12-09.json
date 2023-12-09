@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Harper",
+  "age": 57,
+  "address": {
+    "street": "Rinut Lane",
+    "city": "Gigijev",
+    "state": "IL",
+    "zip": "90514"
+  },
+  "contact": {
+    "phone": "(727) 585-5713",
+    "servicePhone": "800552589"
+  },
+  "birthday": "1974-12-09T11:57:11.356Z",
+  "ip": "236.56.244.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvvurha ire fiktour fe jib dal pedel sootu cehna unkalofe uhoalme oc pajkaw. Mem focdo uku erapiv ezjep vus sifavu wo taifuni pemehek dasdopvut juzguni. Bafurtu enfo zimo pocat vir enocif kol kilu onivuli fofoduew wuriebu liw. Si popmuc mizut wu je jorug mito vusupneb unatu wahiz vap car uhegevun pichisiv pil letnaf hijo. Guno finu rollek ihophuc cudigpi waizosa leomu bafiza bimiwi kurha ur mebis iju wa fevkis.",
+    "bio": "Ruul voakdoh bovpebic reda su nid jufnuko areepiho icza gaf nig ti me sekfig hujfeg tom. Lekeg odwajgu ge al mafedav ruzenro tiwon ehdaddug leh ki beuci begbasap hikgukse. Vi jeceer coririati weifuna epa tar awwulvu atwiene iz unzucci jo pamaj. Ozma pamojus gal sagfur aze kizti feb heica im lukgemuv nen as sarehid fihsuw cigikni. Fewuk islu duvizaso fafihume vo wewonha lermazjuw re pihaku senpubazu rep kumap ehzes."
+  },
+  "apiKey": "c17a0e5527d63c8488cda9bf469f75390c6a4c0df73d948f60a2f7713194db78",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}

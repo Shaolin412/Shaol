@@ -1,0 +1,26 @@
+{
+  "name": "Connor Holmes",
+  "age": 64,
+  "address": {
+    "street": "Elakem Junction",
+    "city": "Canifuf",
+    "state": "OR",
+    "zip": "03420"
+  },
+  "contact": {
+    "phone": "(740) 457-5064",
+    "servicePhone": "800381993"
+  },
+  "birthday": "1987-12-31T16:37:01.315Z",
+  "ip": "10.2.248.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Cibo apuej fodizwu jolasfe kulji tadotfo jodikala sipihe wuzuna zi bobtawtoz wa rincen levbosvu. Vihamaz ze dapju ni vah si jojep jo ci zo ilnoh foki pebaek jatu. Wiagibiw tiofe ifbo mekig wewizum calbe hersahu garku bak dojjuguc gebihudo bawul wuswa tuergu eve zelakages fuliv.",
+    "bio": "Zah aw onogos ci jakoti wecuva jakgu uvso ce nih ifigifuj fawil lid nit tafem. Touwab weomucob dor zinri kok dososuri hohfo muzag aritavuh uzu isdukim se. Vokwe panak ifo celizra nu wenan edana boj ibipacpe jac rurram diw. Zaf woep awasinice umouz ce nopti solro jah dah sezzummih tof ic wikuvkas."
+  },
+  "apiKey": "e53a6c13bcb681f00ef871bdac1575cec54936b90a2631172225aba51ed8069f",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}

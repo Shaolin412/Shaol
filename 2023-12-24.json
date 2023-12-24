@@ -1,0 +1,26 @@
+{
+  "name": "Jose Garza",
+  "age": 60,
+  "address": {
+    "street": "Kavpa Path",
+    "city": "Selodmul",
+    "state": "MT",
+    "zip": "94870"
+  },
+  "contact": {
+    "phone": "(944) 993-5514",
+    "servicePhone": "800646987"
+  },
+  "birthday": "1968-09-03T03:31:28.739Z",
+  "ip": "228.41.179.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Nisuot ku febuwe jesepged amu gotanwo akefo zuffo hego tibhimi wej ilu. Big enamup we tec gejzo kiadinet niutdaj anewirci wutbaj on suzim uka sutus gifdiwime ta kuguro zi. Giiwa azegu ep odvowaj nakice rozat ha wekozbe vup isvuf ap bamejrub arfewun feebuwi bu in.",
+    "bio": "Hih raugva has ha kahcusjij tu he ogogo uzoefo rapagi ohi gu lig ti sig soceg roucoku. Ziz gufnom vo disac ica nufe jefziwreb luveru tecvi enihi juvotfuz akzi er cedro. Wagertu lu iwovnug lip guhri lobel le zieldak tuhbic tebukzo ca vo tu upukosta hopejica. Uzca corgud couvisa cuki eresij efodez fa ker mesaz witufus bovin ubkecnu hilatco. Cuhuh fatjovas ken emilej jamidinin sedvav tangaput ribil tazwostob wuawoin eg nunsev. Buglug du tep dun mircenumo otpa unipusih puzfac lizwamzi uvwe gudgoz moze."
+  },
+  "apiKey": "69216ceac883b91ce8ce04a7d83edf70d261b37d0d459c08e704bf6101ef72ab",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}

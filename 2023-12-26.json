@@ -1,0 +1,26 @@
+{
+  "name": "Cynthia Freeman",
+  "age": 58,
+  "address": {
+    "street": "Ogikep Court",
+    "city": "Duibefur",
+    "state": "CT",
+    "zip": "99701"
+  },
+  "contact": {
+    "phone": "(556) 298-6580",
+    "servicePhone": "800965447"
+  },
+  "birthday": "1965-02-06T21:33:54.539Z",
+  "ip": "128.121.53.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Rimjo sitopa be re uj no kuopa fov kecde pimhe lojuek ulirecti lamju hoofowev navoovo. Lun sis eli foslaiv hefuwa sebced vaavu cijed sob ocisuma mavaska suol ajje jeip ekouvo ivcudem. Tulotwud pu nahoti pi wofmed ecelpe ti ga ijuiw ef uralagu wuracne pifficim.",
+    "bio": "Oragutge lo isen imoahevi belha ecapaow resovuv petceeja hahvizpal da sawocakan vir pu zuugo gojo patfit dujuhge. Ufbubmo viopmom uhajagi womej jaod zozo cuhmeb jipu fawropel dur va noceluza. Hobiji met hagfaj fejelsuf movval evav piwi kuh ozades re jo lihilki vionarem sil mopom."
+  },
+  "apiKey": "be0a084c28091aa4ec81d01d3a09cd50fbda82f3c9ef5441ceae496abb83c22b",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}

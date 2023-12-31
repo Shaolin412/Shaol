@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Hunter",
+  "age": 35,
+  "address": {
+    "street": "Gowum River",
+    "city": "Nejadanuv",
+    "state": "DE",
+    "zip": "79192"
+  },
+  "contact": {
+    "phone": "(724) 635-6573",
+    "servicePhone": "800787451"
+  },
+  "birthday": "1970-07-05T03:49:32.554Z",
+  "ip": "29.121.73.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Luhza lukcem watepli owcu hitreofo huzulcut ilulofwi dokeg coazne vifkiecu towtac cah. Kewik mowfimwo gimi noj ajaruz cav obwor ola bukcodu gel bar zo. Vuvhe sore visve tunafbe ruec comu vikuhfa arilam ufolib uk zelmaten isa oj vafli. Diova gehba kaeciaj mogcu noj zedoseb co tofis lar hi ci ufi puhbevav ba awasanmi. Ceno zefov zim cagezo hopbucce za vu sos puj onebecde tewufa ka rib kotop fahjanroc nehile. Nijfov gut wi ne ciinouh oni torzofa fokapje kusnok vemges vieco ewkahan mo vic.",
+    "bio": "Jercidro oho ho mi pohuwfo meh futi kil koksozpa tonke loban bazfudmi. Bawlu jom ejafo vu icu civ hilecavih avetojep efi fe nudsi dev. Tuntiglu wa mokkabemu cope uruzuiv go pocsahes gi cubfuab dieg nedmow fizpodnih."
+  },
+  "apiKey": "97a4fd403e780fc0c875d93ffc81164b0e36c72634005b8b23df7f26a491f96b",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}

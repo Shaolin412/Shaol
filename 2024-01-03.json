@@ -1,0 +1,26 @@
+{
+  "name": "Jose Collins",
+  "age": 21,
+  "address": {
+    "street": "Hanu Square",
+    "city": "Zohucaka",
+    "state": "MA",
+    "zip": "15640"
+  },
+  "contact": {
+    "phone": "(211) 264-7500",
+    "servicePhone": "800536411"
+  },
+  "birthday": "1971-06-10T13:56:12.025Z",
+  "ip": "113.71.147.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Te otikim li ahougupot uta ohze ikomah kekos tu udga imoezibot kokifof ku ja. Vuhloro an rocejic zel ve magpizo elzuzi cecnono jo iwefpig kivme kubwa us rafos dibofeag. Rossed uf biop tug kefava go tugezug tevi nu he dob kez. Timtu new meku kofcu ubavogmug bak penomev girtinke ube ciene jika cic bebub sebusumo. Wu natetgi ziggohag efu isubawor opi neshakra vofotami anrode riono sapfedib abmazfa mifomu.",
+    "bio": "Mun vofuw uf buetaane dajsajge ajoiza fopsoh temzuh lugivam zerzeh sudrueni de ropvizra tojadlo ib ico ru. Ef zic fa gahut reziw vodi ol laca ge uzvuep tenvawtu nubjeubi wumlopob. Vuvubusef igbo ize donhace dudizife uvwol gonkopni robun nuvi balas ajave be uwutimce uhcacbuv ab. Wed ogjo lopomorab tu cug ubvaniw sifrew eli olpef imge otocaz piafri. Ritrac ku hodjuhic hoawre itoetfok afosokib zedgukob iwuca bufzewuka is gub ginijzo vitibzob."
+  },
+  "apiKey": "a3e5290f52bd463dc516120dde9161965b56af12ebdb079b3752d54ad36036ce",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

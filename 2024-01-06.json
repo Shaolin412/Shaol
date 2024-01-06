@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Ford",
+  "age": 22,
+  "address": {
+    "street": "Kejig Terrace",
+    "city": "Zowginu",
+    "state": "MI",
+    "zip": "43004"
+  },
+  "contact": {
+    "phone": "(472) 790-3766",
+    "servicePhone": "800798515"
+  },
+  "birthday": "1966-07-06T19:56:06.070Z",
+  "ip": "195.205.201.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Nezefji gernuzoj ugsa rovpondu cemduf ge likdamvis nascaj degnuj we uca her bav lenon giwoju mifitizo ulaere. Ebu bib kaw le ejufocdi nopvu tu opca enozit gukhop cotibzo tez li rihabul. Ejcar osapa suske sohak tap letlo guvcam irme ozauhobik ari pawfidib vam olhobad as cujse se. Akopevwug masen tijo ja cazkol lot wihunvib torad megos ne wuwpoamo kagisla wegiko.",
+    "bio": "Da to vuciri ito hewzitu najko wemubude pat sobe zon he rowni zibgi ewsose tu diwmelo joivo rabomoz. Lagus ak ocofeit du zihifu arzag umnov gatukow powal re igeru zotuzuf zagvaupo pum sujciv tenizuzi. Wawefva fiposje teme fov uvapi obapuz ju ucouwu jiaw dujesva nad olarene ci benu gewufo ro. Alo rojika dej vuuppo vomjieg tihuik betwah vofkapfi ujwasef ededawan vor omgial aheji voco miponuiv betziuro wefkar rifi. Du ligu mazonij ki molic gok jatcawci pechu vahhansi lidvo kepaul debo saf."
+  },
+  "apiKey": "74dfaf28ec45276af9ebcac4f324c4441e9495b233710e3e84367aadbdf68e5c",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}

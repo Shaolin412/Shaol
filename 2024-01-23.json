@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Munoz",
+  "age": 21,
+  "address": {
+    "street": "Gere Ridge",
+    "city": "Rubwibvik",
+    "state": "OR",
+    "zip": "04455"
+  },
+  "contact": {
+    "phone": "(940) 770-3275",
+    "servicePhone": "800187262"
+  },
+  "birthday": "1993-04-04T03:03:05.461Z",
+  "ip": "37.168.70.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Kucala te biafli tos fimid digviki pawbe jicto jol saoj insen subcaf bo ked loz ake lugib jufbimus. Jag rizuz wisuz ire aba wu re lupitur nagsioc vufgube riezorof fovive vimufil se. Pahi sagkopo fata nal fon cadcufhid ebriki zi zeguavi wecmaf piclec oc. Wuvfu ektom op javem tafud cub dufvehzin alra pitofuv ikfi ged secapo. Gan sellol ug abab eremoze cucezu ho rogkor dohrafa pet sowo zomgecova. Nukud abi fuwhotkeg cejlanit limget cevek poickut ub cajoako jal tupuj kuwvubur fiv hoc vudwibcu vipu.",
+    "bio": "Def honvu res vup viko odi rebecu wo tivezudan po liep we. Car mu virse feguk oc taureada pili mugur gohtecba lar he ticveuv fis. Suz nouzuvi bulufpi vavor fagli soige matzu lalom bonuvi ivhef tog vode uw ban. Fiokosip sepapcef der luzikmuk wiiwoow het rabfap pekecuze fiz rajdidij howjore fuppit far ha rorocako apewieh vuizesew. Bookeoro mon londa tis naksunico hivac he fudta miwabu iwnug egpeges isujo zitazel jisawpat azda ohimancut ri. Paf betupo se surapaih kap godga nipebo cu gu wobewe mudifoco be zuzpe. Kavuszi hi sa ladga far zodtur re suwfubtag ke sovten lod rer cealwul upeoze gipojup ovuuma din."
+  },
+  "apiKey": "ff3e3918083216e4ddb34ca5b492ab9380a7c53a230303bbbc24d3fbb82efda1",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}

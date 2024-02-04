@@ -1,0 +1,26 @@
+{
+  "name": "Susan Wood",
+  "age": 50,
+  "address": {
+    "street": "Someco Lane",
+    "city": "Vaztetca",
+    "state": "NE",
+    "zip": "16087"
+  },
+  "contact": {
+    "phone": "(577) 878-1278",
+    "servicePhone": "800649846"
+  },
+  "birthday": "1974-01-29T19:58:12.021Z",
+  "ip": "232.235.123.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Rik wiv ajda novureta biw sa ne va gesinida wi hob ciw jeah vutvo rewi. Wigu irge olpigez jozrob huroda awga ivdihneh low curidel anzutefu tazvuf aw ru hu nipjibi. Zawosef nig varage paphuk pon por raafo wogavbu taz denhik gazuj oharuaf. Ivohage nagsipag nudehoh menegope ocu wosol sewpufhat vagsic kazov vagabsi af cis up wuz. Tab ju tiktid pathula raf undabwoj ewu emaeni eple tet ur akajwef vafwe pov etebek ka el. Ki itu jopriwu akiruw dobniuno lug vojesule rehrat venaforin wujjevza luda hutehbo fuwku kip ce fidormiw zaful nolhogjeb. Wih hiwovo tuhzadzu irli idamu wauc vu lawbeptu af nipas hetuf katce.",
+    "bio": "So da iku jihmedav vi has ini fikih me nicmobor uhsa dehjif suuciwa hucinago nidam cuvi. Foforzi esfeliw pahnoda mid wizsi lipih gab ufjakwo ti do niuba huvo. Vueni rik ijupkab cuime jicvos zolsevseb nuletto ve liwewi abi cigmo iz."
+  },
+  "apiKey": "cb8bea7b51d07ce5e1baa513aaa37e8f2572e4399ad9ff4cad450c4812989200",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}

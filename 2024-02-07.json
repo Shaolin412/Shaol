@@ -1,0 +1,26 @@
+{
+  "name": "Ina Collier",
+  "age": 41,
+  "address": {
+    "street": "Howovi Point",
+    "city": "Negobsi",
+    "state": "PA",
+    "zip": "88472"
+  },
+  "contact": {
+    "phone": "(604) 556-6965",
+    "servicePhone": "800166388"
+  },
+  "birthday": "1976-09-03T08:05:48.687Z",
+  "ip": "167.137.113.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Cap upe bobvo fiseuzi mak bepri cofcindew sap non dam runepol se hovkortib. Bolir jovalmem iratip ridka jiteheb huscahbin goaf agehaw jekudfom jauri hic cobujred uk regrihson. Ol uce gi supotaze wu mig gut botwi zic oceupufu tok tel havvorwo danisdah teciso. Rej kismeci lotu du gak rilismic fifonuper wo zab dunedhez rob ugudi owemepud heh.",
+    "bio": "Herejoh ec wis womlet wo pal hen nik tukjafov gago zilebhom vel. Kizlepug vepotase zezba hujogbot evral ikewinfo kucwawuf gafago guk wik ce gekna lohasku ilu. Boopeap to rutzudid uzujiama pufec daovomom beta op mejomla ugenasnan beuvpa heci enjuure luvim bu."
+  },
+  "apiKey": "124d145c1047e100faae3d1a1d34026e5e96a2a290246a18017effb89182f9c4",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

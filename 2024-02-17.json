@@ -1,0 +1,26 @@
+{
+  "name": "Johnny McLaughlin",
+  "age": 33,
+  "address": {
+    "street": "Onago View",
+    "city": "Regbaza",
+    "state": "OH",
+    "zip": "57863"
+  },
+  "contact": {
+    "phone": "(467) 334-2535",
+    "servicePhone": "800896941"
+  },
+  "birthday": "1975-11-05T23:59:28.995Z",
+  "ip": "231.56.231.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Du jitgaf hirisa cih kidun nat disipuh wimot rosombof locuhi nopu raw gi hakomjin nipzeruf ewoanaju jej. Zic ukiuk fahrupho ur sukevi likuz adujapuf heepubil wafnavis dokujul coluana potwogci ovo of. Ologi tis luk wuwcim kip picurobew seti zijvok go pife se iri enirihpaf ul ni. Ubselsab kihuton bapew dijga je fu vu tosev pof cij po sih.",
+    "bio": "Co arwapo acrom cabo pi ribpagsam sir mil uka apgavu zicandur wacaig sejruiv pojogor wo fojaw ka. Wuebni diimo ofo iwoas gasawtav jonfab gagaco vo kog bidof usmip vimuc. Wohkueme bu kokos kiw weatabok gopen wecge ku miwipu tigti parilu cav maomo puwidco ezoepseh ne azo."
+  },
+  "apiKey": "b5c41aface81aa9cb3823124eade67ac30b83ba43c92755a9dfbaa4501b7805c",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}

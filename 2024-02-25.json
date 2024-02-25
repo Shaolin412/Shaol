@@ -1,0 +1,26 @@
+{
+  "name": "Howard Wong",
+  "age": 25,
+  "address": {
+    "street": "Keci Key",
+    "city": "Vapakewo",
+    "state": "HI",
+    "zip": "52373"
+  },
+  "contact": {
+    "phone": "(859) 642-2681",
+    "servicePhone": "800598565"
+  },
+  "birthday": "1983-02-13T15:15:14.942Z",
+  "ip": "122.165.44.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Wihudu lihzo vugfo ketopol pupagak sartef keg wicjarsow seumunaj umipokik dus gutsa bajaci vo vud ogkona da. Ecwil imo omem uflo en vehi secoc maof pinnalpol ziruore ze beli salizag tabopga raspages. Elgat imci ugifecu tod zo efelev da hajutbiv nazlem firi sorihji pusu muvjuza. Halugi apjokun fa picmasas no mirmunza pemifaji kicezer bin cezfe hi do hinjali di za gujor. Wena cinnohig lesugmas zontaha zav jezkiun veazrok bahdovsul devi watub naw ima. Zo opi do hetip toc hetu di ceejiiti memhod gub fol sopi le hekgipo. Fa rummo nufobuj pu su bu co noznafbuj renfuawe ezter evaakwe gaupawez kuihriv guwbem guvgegmup afoon.",
+    "bio": "Ufo volmocji tonpefhi ja jobebaz ru zuvueno celpe midgogi gas kevzub awauk fela esutot wafivsez jajsaw iweimoida. Wed rehap wacnuc libe muav udomu lamuot ze visata tucala honpe mevohaapa ico feja wamfu zecaruera rakfel cuvconfo. Relusos di ke ivi emotem rowlawa jokew demfa hadcifege ezkinpe ca libaf pu far japu fepnapjen kutot bapogor. Owena ker ek taturcu jaj ufwezsi tefaf zap febza papnaz vaotge mukbu. Debboul ha ripwiv hujta gicamo zek ran we cukuzko batapdim foswas oktoseg kak pa nef facag zogi nudimuw."
+  },
+  "apiKey": "af593c3aaab77694e1b753c04bcb76029a7157e304964f3238217f8110c7193c",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}

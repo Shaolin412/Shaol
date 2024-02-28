@@ -1,0 +1,26 @@
+{
+  "name": "Milton Murray",
+  "age": 27,
+  "address": {
+    "street": "Putwak Park",
+    "city": "Adigadat",
+    "state": "NC",
+    "zip": "93932"
+  },
+  "contact": {
+    "phone": "(387) 645-7199",
+    "servicePhone": "800598527"
+  },
+  "birthday": "2005-11-26T08:31:58.610Z",
+  "ip": "57.204.15.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Korev torefka mahuvugib su zuzlom katrit map zotate ar junawguj ar hoc upesop oku hi toze uto. At osadol dutucon vopjeceh akfa igva be oshujku cebtejceb buzwe uru es hep cu. Rocafu afoza befaz rujhik aje palit opecime ha nizonuro caono pidna iz owhuul vev lod suvef fafu namof. Otevahak de nubmaw jo etu vul maewi kofaifa kuwjube nibren kem wig agalimzip jabnunbi. Bapat mul ji huc jefzusih feju afru he ju wilotos de befivzas.",
+    "bio": "Ivo ibo giaguju ove ge geli woftakeh tumejbi podide cel sib jok hakazri gowur repagos. Poplijte vel tudew polpa ebeedujil ohipe opkuatu ri londimtuh mipiluc kidsuge iha vizokpov. Ukuuc tod nihreki libwelom wugi ku bo pu isukaw juf vag tomekwu umfezas pot."
+  },
+  "apiKey": "fa6de20b85f800294d7c1bc59810db9ed012e1c313581eea7a1dee207240eb2b",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Eric Evans",
+  "age": 39,
+  "address": {
+    "street": "Noghe Court",
+    "city": "Wamute",
+    "state": "RI",
+    "zip": "35123"
+  },
+  "contact": {
+    "phone": "(375) 859-8836",
+    "servicePhone": "800994369"
+  },
+  "birthday": "1997-02-28T13:59:53.914Z",
+  "ip": "10.254.61.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Wohzebu riczak azu to pa ziub tesej ob la zi se evuza lanihma lojva. Cijuuca agge ivocoun likughi hudluiti bipharog sirvishas osupo zi tuna filge umhilo dacaba olenowram. Puc du ipojib zoug is caigete malapzan gegu basusci riw isi utfo. Wi zosah biwewori la tub nowjut vasjah uv cufhapuc tujevsec dumrucco wiujdik apujehak ej ipekubus lor.",
+    "bio": "Iwuzocev fe nim veliwa pakosane wi datpuk keijobec roha coz wodojumuf bolop forigke tesoc cij nuwde ac. Fatup er fu luhokron oja wiza rafehvaj of bel douju demarer moukji najsa mep jebha. Lem fa fipukje pose koghakleg eliasco wubniik pehodeb nemome jo ez dog. Nu muove pushirupi avsu ib iwebugbah kenbo vuc hadnaw uhela tigaliv tebsutaw wovhidgah vacelzav gij nulpozok. Lag zoduz javhos jehim go fa doluca owo putigiev saches zavcib vikzol mojor wa ga ez. Fosakig se azuhejvig wahilov ji pacnes vop uvtib sabbi tig naraiko geta teabasu kewtud."
+  },
+  "apiKey": "dbc6aae5f3babfd33b7ed4dfc43719c5eabb05f55b7061002aac0a7bac73ffe8",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}

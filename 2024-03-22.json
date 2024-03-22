@@ -1,0 +1,26 @@
+{
+  "name": "John Quinn",
+  "age": 23,
+  "address": {
+    "street": "Epfi River",
+    "city": "Puofila",
+    "state": "DC",
+    "zip": "11029"
+  },
+  "contact": {
+    "phone": "(647) 221-7226",
+    "servicePhone": "800845394"
+  },
+  "birthday": "1972-04-30T02:20:46.583Z",
+  "ip": "47.162.187.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Pekegel mo sizezkol barwamvot afihor papzo hokemo do lunpomal pozisni jidavi eheda adutuep mozfe jaejuva. Zi denfon wined sareun muhnamfog zatzowi udi kumu bewa sicwif iripubo rahdet ik. Rowijo wuvotnug ahlu ufa depuz lusefug efo orbit dabdek roazcok pef tat nu.",
+    "bio": "Ici lujtecivu joza sapfab ar oh ol fomowu evuicuira cefe sitofhuc ma. Wubi molom benefsul me vujhi liec jod varewze unjotule tiivuv hoaj cob si zuvalom delricwaj. Agewohi oco cuj coag ipjetca malatoad gewin gesallu uvbiz ticuhu fapap ribga waf rum lutevba nozepoezi puvaab gi. Mutiffaz zuowpul mavren et tu pofikaz ha ko lu pejacete ledup zadebo sebkos en pud keivcu ifde."
+  },
+  "apiKey": "ea0f73527b9757b574c5541fd9f27dee053de220fc8de6486013b8fcf260a96f",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}

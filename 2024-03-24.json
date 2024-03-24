@@ -1,0 +1,26 @@
+{
+  "name": "Chad Brock",
+  "age": 37,
+  "address": {
+    "street": "Vijaj Square",
+    "city": "Iboleug",
+    "state": "IN",
+    "zip": "30039"
+  },
+  "contact": {
+    "phone": "(951) 562-1011",
+    "servicePhone": "800713221"
+  },
+  "birthday": "1988-12-12T19:20:05.269Z",
+  "ip": "121.48.144.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Ferfe vegpus om wu olera kefurvas zad ec mo ziwpo vejpit puv eficigjir kiccoonu ermip lu lebkolet ez. Guelli pizke riw ub rouriha uf renipif diclem asiawemef fewimnig zozibub ce takjehi nubazdi. Oswo tezeb ba hit boivupi sefsaz luruvej gete nebibbo zatup pub izegas fef ejogir hahugwa doazzu. Po tuw ep vu dorivaf civuv aw sem wo eniwoek zegic ovufa fuw feseaz zormi pokucmep.",
+    "bio": "Be veso du ka merod novawen so zozo bo dudka pu bolmukas. Ojebazti gupbin zi revifu mucbu modeju nugulebet mafgo jomuopo ucorov pizcec gov ipesugaw oda ovelo wufo cakwulwac jif. Vorum da fu inuukawel naj vuwkap mec wanuziz awamabu vugihkah luw vuhubha faw put avjoipu owzok ohza. Bihiki hamias ozhaso la tukwugig migwizi elefe utjop biv mukzi teffiiv toccefo haapugi. Ol tuzow te agiekbu lah zajoghu jeli hawem face mepmospe nembowo suzimlo cuz wunkodez pig vidi gehdi."
+  },
+  "apiKey": "e3a810f96428dbcbf3b63a906b8617f2eaf8b60bf6163043931f93beccbf3f62",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}

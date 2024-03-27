@@ -1,0 +1,26 @@
+{
+  "name": "Belle Medina",
+  "age": 60,
+  "address": {
+    "street": "Hovi Pike",
+    "city": "Wewivvu",
+    "state": "MT",
+    "zip": "84616"
+  },
+  "contact": {
+    "phone": "(916) 672-1836",
+    "servicePhone": "800589844"
+  },
+  "birthday": "2002-04-04T05:22:35.311Z",
+  "ip": "14.38.235.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo hol zotzuha vu zawojog ug ragara zenusoj zi zoud ec papagan rag boopja jajpulam. Omod duirgo efdud zuztav mosikuv webuzro cadihat abpala map zeb divpudlon una. Dojlozu womfev venker zodete nazu rehacap dihwil dismije tumda dev nife gok pi jo karula wugbev koj. Ub livkognek cogfoctow nuef ujivelih da ba acwo wages upotu pan valohhig sednacu aca. Desi duv ozulob kuflif vibpev fijamses liweh ephu is vatagzuv hi ef cuihu hat hefaj tilo oteco lis.",
+    "bio": "Remcit risajka ritimwa pedtaegu mochucamo doireica dijmivjez ornu zasimavo zahus nino juivegek hose. Mu gu curigre ijler vir hok pevsegi penjuvodi tumcaeh febjeto ji kukha vuhmojgi mu sofba. Ow hujsanfus neici oralfe pag ijiepa sevirun berfazwid co zukwupufo enemuk cel gu. Moju mivto fewud forhaej gu kilbaw jumjut fitvocejo gowsatsi femtab no worup vuhopod rosnofi jofahnet."
+  },
+  "apiKey": "a07b9535c691617f9ddb75ee35f4c89dc6bbde2cd4d79128449bdc709e3f9ad7",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}

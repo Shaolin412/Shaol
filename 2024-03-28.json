@@ -1,0 +1,26 @@
+{
+  "name": "Angel Hammond",
+  "age": 53,
+  "address": {
+    "street": "Fazsit Path",
+    "city": "Impizof",
+    "state": "NJ",
+    "zip": "24712"
+  },
+  "contact": {
+    "phone": "(707) 749-6132",
+    "servicePhone": "800787789"
+  },
+  "birthday": "1981-11-16T07:20:16.687Z",
+  "ip": "21.183.18.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Matas rac lu zazpe sa laezefo sa ucu ubonu pehezomu busfusfo lafzelip piki. Uwozijdus awufaw melre kugemi tuf gum rodo elejudobe zakucoc nurjecij efe fej ebsahzab. Sazuriv cuwvamov se om sake tolo red tu eciuv rotvif jip teubo ilmiswed bo gan nebuc cipfi.",
+    "bio": "Accoj iglawame vemfu anme untoz unutok vo lu man sakded dizcac arujuksi ka jev. Nad nohuwe darujit wedas ep ejofuab be mejefeje uhiwu al etu atiwnu lu vet hotuto. Opidiv ahaco lebos fazsa id kec taw nenum zaf edo ecaloben homega. Kow segcukrob megel poragwo zugwe ajo vawi kabom le iliviwig reigbih iwip jib lopuku. Tehod ejjo keezsih cehgiwi zaripmad beuhoiw hadno wuhuwe paposda uc hosfa zo kore caguhojis. Va nekil dirpizbe onli rokar anoddo cuc vupojki id ce idi mibon vepupovuv maponha ab uvu. Inoit jodcibo renub at duote no evfegna wicas guej damufpel agfari paefeag."
+  },
+  "apiKey": "eedd227cc2ec2137b64fceecdb2036b2a67054a76ced90ac9ab0b77251dc0aad",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
